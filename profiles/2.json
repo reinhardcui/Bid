@@ -1,0 +1,142 @@
+{
+	"professional": "WordPress | Front end developer | Elementor",
+	"work_experience": [
+		{
+			"role": "Web Developer | Web Desk",
+			"company": "Emago",
+			"location": "Bandung",
+			"country": "Indonesia",
+			"start": "2018.5",
+			"end": "2020.4",
+			"description": [
+				""
+			]
+		},
+		{
+			"role": "WordPress | Front end developer",
+			"company": "Zenius Education",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2020.5",
+			"end": "2023.6",
+			"description": [
+				""
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universitas Islam Indonesia (UII)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer science",
+			"start": "2011",
+			"end": "2015",
+			"description": ""
+		},
+		{
+			"university": "Universitas Islam Indonesia (UII)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer science",
+			"start": "2015",
+			"end": "2017",
+			"description": ""
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Shopify",
+		"WordPress",
+		"CSS 3",
+		"Divi",
+		"HTML5",
+		"Responsive Design",
+		"Webflow",
+		"Elementor",
+		"WordPress Theme",
+		"Bootstrap",
+		"Front-End Development",
+		"Website Optimization",
+		"React",
+		"Next.js",
+		"Redux"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"- I am working in the Web design industry for the last seven years.",
+		"",
+		"- I have done many projects so far with client satisfaction. My skills include Web design, WordPress, Elementor, Shopify, Webflow, Shogun, PageFly or Gem-Pages, HTML, CSS, PSD to HTML, PSD to WordPress, etc.",
+		"",
+		"- I like to work with the client on a regular basis.",
+		"",
+		"- I have successfully completed 200+ projects with excellent feedback with 100% satisfaction."
+	],
+	"hour_rate": "25",
+	"photo_others": {
+		"birthday": "1993-05-24",
+		"city": " Pekanbaru",
+		"country": "Indonesia",
+		"street": "Graha Sucofindo, 1st FloorJL. Ahmad Yani No. 79",
+		"zipcode": "28115",
+		"phone": "7617073817",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg"
+		]
+	},
+	"first_name": [
+		"Muhammad",
+		"Rizky",
+		"Budi",
+		"Agus",
+		"Adi",
+		"Arif",
+		"Joko",
+		"Fajar",
+		"Surya",
+		"Andi",
+		"Dwi",
+		"Tri",
+		"Eko",
+		"Indra",
+		"Iqbal",
+		"Wahyu",
+		"Bayu",
+		"Yoga",
+		"Hadi",
+		"Wira"
+	],
+	"last_name": [
+		"Setiawan",
+		"Suryanto",
+		"Santoso",
+		"Utomo",
+		"Wibowo",
+		"Nugroho",
+		"Prasetyo",
+		"Kusuma",
+		"Hartono",
+		"Wijaya",
+		"Sutanto",
+		"Hidayat",
+		"Hermawan",
+		"Winata",
+		"Wahyu",
+		"Pranata",
+		"Putra",
+		"Gunawan",
+		"Susanto",
+		"Saputra"
+	]
+}

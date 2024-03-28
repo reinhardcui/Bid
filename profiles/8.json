@@ -1,0 +1,136 @@
+{
+	"professional": "Web design | Mobile design | UI/UX improvment",
+	"work_experience": [
+		{
+			"role": "Front End Developer",
+			"company": "BRYTER GmbH",
+			"location": "Berlin",
+			"country": "Germany",
+			"start": "2018.2",
+			"end": "2021.7",
+			"description": [
+				"Developed clean and efficient code using HTML, CSS, JavaScript, and other front-end technologies.",
+				"Integrated third-party APIs and plugins to enhance website functionality.",
+				"Optimized website performance and loading speed through techniques such as image optimization and caching.",
+				"Collaborated closely with the team to revamp the company's website, resulting in increased website traffic and improved user engagement."
+			]
+		},
+		{
+			"role": "Web Design Specialist",
+			"company": "Celonis SE",
+			"location": "Munich",
+			"country": "Germany",
+			"start": "2021.9",
+			"end": "2023.4",
+			"description": [
+				"Conceptualization and Design: I was responsible for generating design concepts and wireframes, taking into account the goals and target audience of each project. By employing design principles and contemporary trends, I created engaging and impactful visual designs.",
+				"Responsive Web Design: I utilized my expertise in responsive web design techniques to ensure that our websites were optimized for various devices and screen sizes. This included developing flexible layouts, fluid grids, and media queries to deliver seamless user experiences across desktop, tablet, and mobile platforms.",
+				"User-Centric Approach: I conducted extensive research on user behavior and preferences, incorporating UX best practices into my design process. Through usability testing and iterative design, I crafted intuitive navigation flows and information architecture that enhanced user satisfaction.",
+				"Collaboration: Working closely with front-end developers and UI/UX designers, I ensured the successful implementation of my designs. I provided detailed design specifications, style guides, and assets, maintaining effective communication throughout the development cycle.",
+				"Client Satisfaction: I regularly presented design concepts and progress updates to clients, incorporating their feedback and suggestions into the final product. By consistently exceeding client expectations, I maintained long-term relationships and received positive reviews on projects."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Technische Hochschule Ingolstadt",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": "Completed a rigorous program in Computer Science at the Technische Hochschule Ingolstadt, gaining a solid foundation in fundamental concepts, theories, and practical skills related to computer science."
+		},
+		{
+			"university": "Saarland University(SU)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Completed an advanced program in Computer Science at the Saarland University(SU), building upon the knowledge acquired during the Bachelor's degree to attain a deeper understanding of computer science concepts and their practical applications."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"UX Design",
+		"Web Design",
+		"Shopify",
+		"WordPress",
+		"Mobile UI Design",
+		"UX & UI",
+		"Responsive Design",
+		"Custom Web Design",
+		"App Design",
+		"JavaScript",
+		"Figma",
+		"Adobe XD",
+		"Web Development",
+		"Web Application",
+		"Git"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"Welcome to my profile!",
+		"",
+		"Hello, I am a highly skilled and experienced Web, Mobile, and UI/UX Designer with a passion for creating visually stunning, user-friendly interfaces and seamless digital experiences. With 6 years in the industry, I have successfully translated client requirements into innovative design solutions that elevate brands and drive user engagement.",
+		"",
+		"Design Expertise:",
+		"- Web Design: I specialize in crafting modern, responsive web designs that effectively communicate brand messaging, optimize usability, and enhance user experience. Whether you need a new website or a redesign, I will ensure your online presence is visually captivating and user-centric.",
+		"- Mobile App Design: From conceptualization to final execution, I understand the unique challenges of mobile app design. I create intuitive interfaces that provide a seamless experience across iOS and Android devices, enhancing user satisfaction and retention.",
+		"- UI/UX Design: I believe in designing experiences that not only look great but also facilitate effortless navigation and interaction. By conducting thorough research, conducting user testing, and implementing best UX practices, I prioritize usability and deliver exceptional UI/UX designs.",
+		"Graphic Design: I also offer graphic design services to develop eye-catching logos, brochures, banners, and other marketing collateral that aligns with your brand identity and resonates with your target audience.",
+		"",
+		"Why choose me?",
+		"Customized Approach: I take the time to understand your business goals, target audience, and design preferences to create tailor-made solutions that meet your unique needs.",
+		"Effective Collaboration: I believe in maintaining open communication and collaborative relationships with my clients. Your feedback and ideas are valuable to me throughout the design process.",
+		"Timely Delivery: I am committed to delivering high-quality work within agreed-upon timelines and budget.",
+		"",
+		"Let's Connect:",
+		"If you're looking for a versatile and passionate designer who can transform your ideas into engaging experiences, let's connect and discuss how I can help you achieve your design goals.",
+		"Remember to personalize this overview with your own skills, experience, and achievements. Highlighting your unique strengths and providing examples of previous work will give potential clients confidence in your abilities as a Web, Mobile, and UI/UX Designer. Good luck!",
+		"",
+		"Yours sincerely."
+	],
+	"hour_rate": "30",
+	"photo_others": {
+		"birthday": "1995-10-28",
+		"country": "Germany",
+		"city": "Berlin",
+		"street": "Rheinuferstrasse 247",
+		"zipcode": "73542",
+		"phone": "0014753204",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg",
+			"11.jpg",
+			"12.jpg",
+			"13.jpg",
+			"14.jpg",
+			"15.jpg",
+			"16.jpg",
+			"17.jpg",
+			"18.jpg",
+			"19.jpg",
+			"20.jpg",
+			"21.jpg",
+			"22.jpg"
+		]
+	},
+	"first_name": [
+		"Jonas"
+	],
+	"last_name": [
+		"Werner"
+	]
+}

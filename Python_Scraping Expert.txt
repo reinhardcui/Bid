@@ -1,0 +1,27 @@
+❤️Hello, Sir!❤️
+
+I am very interested in your project.
+
+With robust libraries such as Scrapy, Selenium, BeautifulSoup and Requests, I have successfully scraped and crawled various websites and extracted valuable information for clients across different industries as well as developed innovative bots.
+
+Please check below urls out.
+https://ecu-espana.es/
+https://law.justia.com/cases/
+https://www.hvwooding.co.uk/
+https://www.marathonbet.com/en/
+https://www.pinnacle.com/en/
+
+This is my telegram bot channels.
+#@tennis_inforadar
+#@winnerodds_pmvm_bot
+
+✅ I have developed innovative bot for above sports betting sites so they can save the time and effort.
+✅ My expertise lies in developing custom web scrapers that can navigate through complex website structures, interact with APIs, and extract data in a structured format as well as saving the data to Local filesystem, FTP, AWS S3, Google Cloud Storage. 
+✅ I have also developed the project that can download big data from AWS S3 bucket in parallel and sync. 
+✅ I am skilled in extracting tables, text, and other relevant information from PDFs using libraries like PyPDF2 and Tabula. 
+✅ I am also adept at handling various challenges that may arise during the scraping process, such as bot detection, CAPTCHAs, and IP blocking.
+
+Thank you for considering my services, and I look forward to the opportunity to assist you.
+
+
+

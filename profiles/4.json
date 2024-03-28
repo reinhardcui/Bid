@@ -1,0 +1,151 @@
+{
+	"professional": "Senior Expert React Developer",
+	"work_experience": [
+		{
+			"role": "React Developer",
+			"company": "Ralali",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2018.5",
+			"end": "2020.4",
+			"description": [
+				""
+			]
+		},
+		{
+			"role": "Senior Expert React Developer",
+			"company": "Ruangguru",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2020.5",
+			"end": "2023.6",
+			"description": [
+				""
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universitas Lambung Mangkurat (ULM)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer science",
+			"start": "2011",
+			"end": "2015",
+			"description": ""
+		},
+		{
+			"university": "Universitas Lambung Mangkurat (ULM)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer science",
+			"start": "2015",
+			"end": "2017",
+			"description": ""
+		}
+	],
+	"languages": [],
+	"skills": [
+		"CSS",
+		"React",
+		"Front-End Development",
+		"Front-End Development Framework",
+		"Redux",
+		"Next.js",
+		"WordPress",
+		"Node.js",
+		"GraphQL",
+		"JavaScript",
+		"TypeScript",
+		"Apollo.io",
+		"Git",
+		"Material UI",
+		"ChatGPT"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"Hi there! I'm a highly skilled Senior Expert React Developer with 6+ years of experience creating visually appealing and user-friendly websites and web applications. ",
+		"Successfully delivered 50+ projects 5-star reviews and glowing feedback.",
+		"Level up your development with a complimentary 1-hour consultation! DM me or Invite me to your project on Upwork to get started. ",
+		"",
+		"Why Hire Me as Your Software Developer? ",
+		"- Attention to detail and keen problem-solving skills.",
+		"- Creative and innovative mindset.",
+		"- Strong technical background and continuous learning.",
+		"- Able to work independently and in collaborative teams.",
+		"- Diverse skillset to contribute effectively to projects.",
+		"- Eager to elevate software development to new heights.",
+		"- Valuable asset for your company's growth.",
+		"- Always staying updated with industry trends.",
+		"",
+		"During our interview, I would be thrilled to offer you captivating code samples that not only showcase the exceptional quality of my work but also demonstrate its efficiency.",
+		"Feel free to slide into DM me or Invite me to your project on Upwork anytime to discuss your problem and project without any hesitation! Together, we can turn your vision into reality!"
+	],
+	"hour_rate": "25",
+	"photo_others": {
+		"birthday": "1992-05-09",
+		"city": " Selatan",
+		"country": "Indonesia",
+		"street": "Jl Sultan Hasanuddin 15",
+		"zipcode": "90112",
+		"phone": "0411332513",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg"
+		]
+	},
+	"first_name": [
+		"Muhammad",
+		"Rizky",
+		"Budi",
+		"Agus",
+		"Adi",
+		"Arif",
+		"Joko",
+		"Fajar",
+		"Surya",
+		"Andi",
+		"Dwi",
+		"Tri",
+		"Eko",
+		"Indra",
+		"Iqbal",
+		"Wahyu",
+		"Bayu",
+		"Yoga",
+		"Hadi",
+		"Wira"
+	],
+	"last_name": [
+		"Setiawan",
+		"Suryanto",
+		"Santoso",
+		"Utomo",
+		"Wibowo",
+		"Nugroho",
+		"Prasetyo",
+		"Kusuma",
+		"Hartono",
+		"Wijaya",
+		"Sutanto",
+		"Hidayat",
+		"Hermawan",
+		"Winata",
+		"Wahyu",
+		"Pranata",
+		"Putra",
+		"Gunawan",
+		"Susanto",
+		"Saputra"
+	]
+}

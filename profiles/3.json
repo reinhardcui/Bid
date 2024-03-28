@@ -1,0 +1,150 @@
+{
+	"professional": "UI/UX Designer | Front End Developer",
+	"work_experience": [
+		{
+			"role": "UI/UX Designer",
+			"company": "Qlue",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2018.5",
+			"end": "2020.4",
+			"description": [
+				""
+			]
+		},
+		{
+			"role": "Front End Developer",
+			"company": "Warung Pintar",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2020.5",
+			"end": "2023.6",
+			"description": [
+				""
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universitas Katolik Parahyangan (UNPAR)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer science",
+			"start": "2011",
+			"end": "2015",
+			"description": ""
+		},
+		{
+			"university": "Universitas Katolik Parahyangan (UNPAR)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer science",
+			"start": "2015",
+			"end": "2017",
+			"description": ""
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Web Development",
+		"Figma",
+		"HTML",
+		"Web Design",
+		"HTML5",
+		"CSS 3",
+		"Adobe XD",
+		"Mobile App Design",
+		"PSD to HTML",
+		"Bootstrap",
+		"Node.js",
+		"jQuery",
+		"UI/UX Prototyping",
+		"App Design",
+		"Tailwind CSS"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"Hi there! I'm a highly skilled UI/UX Designer and Front End Developer with 6+ years of experience creating visually appealing and user-friendly websites and web applications. My strong design background coupled with my coding expertise allows me to deliver high-quality projects that not only look great but also function seamlessly.",
+		"",
+		"As a UI/UX Designer, I understand the importance of creating an intuitive and engaging user experience. I conduct thorough research and analysis to gain a deep understanding of your business and your target audience, and I use this information to create designs that are not only aesthetically pleasing but also effective in achieving your goals.",
+		"",
+		"As a Front End Developer, I have extensive knowledge of HTML, CSS, Bootstrap, JavaScript, and other related technologies. I am proficient in various front-end frameworks such as React and I always ensure that my code is clean, well-structured, and optimized for performance.",
+		"",
+		"My skills and expertise include:",
+		"- Creating wireframes, prototypes, and mockups using design tools such as Sketch, Figma, and Adobe XD.",
+		"- Developing responsive and mobile-first websites and web applications.",
+		"- Integrating designs into various content management systems (CMS) such as WordPress, Shopify, and Squarespace.",
+		"- Collaborating with back-end developers to ensure seamless integration and functionality.",
+		"- Conducting user testing and implementing feedback to improve the user experience.",
+		"- Staying up-to-date with the latest design and development trends and technologies.",
+		"",
+		"I am dedicated to delivering high-quality work that meets and exceeds my clients' expectations. If you're looking for a UI/UX Designer and Front End Developer who can bring your vision to life, please don't hesitate to get in touch!"
+	],
+	"hour_rate": "25",
+	"photo_others": {
+		"birthday": "1992-05-24",
+		"city": " Jakarta",
+		"country": "Indonesia",
+		"street": "Jl Benda Raya 10",
+		"zipcode": "12560",
+		"phone": "0217827231",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg"
+		]
+	},
+	"first_name": [
+		"Muhammad",
+		"Rizky",
+		"Budi",
+		"Agus",
+		"Adi",
+		"Arif",
+		"Joko",
+		"Fajar",
+		"Surya",
+		"Andi",
+		"Dwi",
+		"Tri",
+		"Eko",
+		"Indra",
+		"Iqbal",
+		"Wahyu",
+		"Bayu",
+		"Yoga",
+		"Hadi",
+		"Wira"
+	],
+	"last_name": [
+		"Setiawan",
+		"Suryanto",
+		"Santoso",
+		"Utomo",
+		"Wibowo",
+		"Nugroho",
+		"Prasetyo",
+		"Kusuma",
+		"Hartono",
+		"Wijaya",
+		"Sutanto",
+		"Hidayat",
+		"Hermawan",
+		"Winata",
+		"Wahyu",
+		"Pranata",
+		"Putra",
+		"Gunawan",
+		"Susanto",
+		"Saputra"
+	]
+}

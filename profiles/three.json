@@ -1,0 +1,105 @@
+{
+	"professional": "AR | VR Developer ( Unity / WEB )",
+	"work_experience": [
+		{
+			"role": "Javascript/React/Three.js developer",
+			"company": "Infineon Technologies AG & Company",
+			"location": "Am Campeon 1-12, 85579 Neubiberg",
+			"country": "Germany",
+			"start": "2018.2",
+			"end": "2021.2",
+			"description": [
+				"- I approach each client individually and offer my ideas on how to improve the project.",
+				"- I have a lot of work experience and many completed projects, so I know how to make your project with maximum efficiency.",
+				"- It is important for me to build long-term relationships with clients, so I am always looking for a way out of any situation. ",
+				"- Also, I am interested in long-term projects. ",
+				"- In addition, I can help you create terms of reference for the project."
+			]
+		},
+		{
+			"role": "AR | VR Developer ( Unity / WEB )",
+			"company": "Covestro Deutschland AG",
+			"location": "Leverkusen",
+			"country": "Germany",
+			"start": "2021.4",
+			"end": "2023.5",
+			"description": [
+				"- Got a strong background in creating visually stunning and interactive 3D web/desptop experiences, I bring a unique blend of technical expertise and artistic flair to every project.",
+				"- Whether it's designing immersive virtual environments or developing cutting-edge desktop/web applications, I strive to deliver exceptional results that captivate users and exceed client expectations.",
+				"- Collaborated with marketing and project management teams to deliver projects on-time and with the highest standard, retaining over 98% of clients in a 5-year period.",
+				"- Performed full cycle recruiting, averaging 100+ interviews per month.",
+				"- I generally follow Agile but I am flexible to other disciplines as well depending on project needs."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Multimedia University (MMU)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": "MMU is a private university known for its expertise in information technology and multimedia studies. It offers programs in creative multimedia, computing, engineering, and management."
+		},
+		{
+			"university": "University of Bonn",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Completed a rigorous program in Computer Science at the University of Bonn, gaining a solid foundation in fundamental concepts, theories, and practical skills related to computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Web Design",
+		"Unity",
+		"Three.js",
+		"WebGL",
+		"Game",
+		"Game Development",
+		"VR Application",
+		"AR Application",
+		"Web Application",
+		"AR & VR",
+		"Augmented Reality",
+		"Virtual Reality",
+		"Mixed Reality",
+		"JavaScript",
+		"3D Animation"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"- I have a strong resume and five years of expertise in this sector.",
+		"- A pleasant chat is ensured. Online all the time. Furthermore, if you lack technical vocabulary and understanding, this is not an issue.",
+		"- Outstanding organization. We employ Agile and SCRUM.",
+		"- I've assembled a team that enables me to combine my development, design, and management talents to assist in the delivery and support of any project, no matter how difficult.",
+		"- You may be confident that your confidential information and concepts will be kept secure. We always sign unspoken agreements."
+	],
+	"hour_rate": "33",
+	"photo_others": {
+		"birthday": "1995-10-28",
+		"country": "Germany",
+		"city": "Berlin",
+		"street": "Karl-Marx-Allee 562",
+		"zipcode": "98954",
+		"phone": "0298944958",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg"
+		]
+	},
+	"first_name": [
+		"Jonas"
+	],
+	"last_name": [
+		"Werner"
+	]
+}

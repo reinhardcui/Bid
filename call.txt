@@ -1,0 +1,61 @@
+Hello.
+I am Joshua Baumgartner from singapore.
+Nice to meet you here.
+
+I am an experienenced AI/ML and python bot expert so I have rich experience in this field.
+I know machine learning algorithms and techniques, such as supervised and unsupervised learning, neural networks, deep learning, reinforcement learning, etc.
+I am good at machine learning frameworks and libraries, such as TensorFlow, Keras, PyTorch, and scikit-learn.
+
+From now, I'll answer the question what you posted on Upwork.
+
+1.What machine learning algorithms have you used for modeling time-series data?
+There are ARIMA, SARIMA, LSTM, GRU networks and Random Forests algorithms for modeling time-series data.
+As you know, I think choosing the algorithm is related to the data.
+I'll choose the algorithm according to the data.
+
+2. If you were trying to project a player's points for a game, how would you handle key injuries on the player's team and on the opponent's team? Assume the injury announcement is on the day of a game.
+I'll create features that capture the absence of key players due to injuries.
+I'll analyze historical data to understand how injuries to key players have affected game outcomes and player performance in the past.
+I incorporate features that consider the interaction between a player and their teammates. When a key player is injured, it can affect the dynamics of the team, which in turn can impact a player's performance and scoring potential.
+I take into account the impact of injuries on the opponent's team. If the opponent has key players missing due to injuries, it may influence the game's overall dynamics and affect the player's scoring opportunities.
+
+3. Where would you get the data to use for the model? using API
+How much historical data will you use? I think 30 days would be better.
+How would you source things like same-day injury updates?
+
+4.Let me explain about my experience.
+As I said before, I developed the SportsMate prediction platform for big baketball leagues such as NBA, CBA, and NBL.
+All information about the game is received from thesports.com API.
+thesports.com API is great for getting useful, detailed information in real time.
+Information going back 30 days is also provided.
+While building a predictive platform using ML, high-quality, relevant data is essential to train accurate machine learning models.
+As a result, I decided to use thesports.com API and it proved to be efficient through debug and production steps.
+LSTM and ARIMA model applied to this platform.
+This platform helps users make profits without losing money when betting on sports on Stake.com.
+The success rate is almost 83.7%
+It was released on Discord, and many users are subscribing.
+To be honest, it took over 6 months to build the platform.
+During that time, I had many valuable experiences that no one else had.
+For this reason, I think my skills are suitable for your job.
+
+5. How do you deal with outliers or missing values in a dataset?
+About Outliers, I identify outliers using box plots or scatter plots.
+I remove them, replace them or transform them
+About missing Values, I identify missing values using functions like isnull() or isna().
+For missing values of numerical features, I use more advanced methods like KNN or regression imputation.
+For missing values of categorical features, I imput the most frequent category or using techniques like mode imputation.
+I consider using algorithms that can handle missing values internally, such as XGBoost or LightGBM.
+An NBA box score is a statistical summary of a basketball game that includes the total points, rebounds, assists, steals, blocks, turnovers, and other key statistics for each player on both teams. It also includes team statistics such as field goal percentage, three-point percentage, free throw percentage, and turnovers. Box scores are typically used by analysts, coaches, and fans to evaluate individual and team performance in a game.
+
+Questions
+1. Where can I collect reliable data?
+2. How long should be updating cycle of the result?
+3. How are you going to release this platform after it is completed?
+4. How much accuracy must I achieve? I mean the accuracy of the final model.
+
+
+As you know, I am new to upwork. If you want to hire me, I hope you accept me.
+And I think we should use other communication tool such as skype or telegram to your email for daily report.
+Nice talking to you.
+Let's keep in touch on xxxx
+Bye

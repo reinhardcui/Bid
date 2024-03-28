@@ -1,0 +1,32 @@
+React | Next.js Developer
+
+Hello, I'm Reinhard Cui!
+
+I am a skilled React and Next.js developer with a passion for creating scalable and performant web applications. 
+With 5 years of experience in the industry, I have a strong understanding of modern JavaScript frameworks and libraries.
+
+✨ Technical Skills:
+
+- React: Expert in building user interfaces using React, including components, hooks, context API, and state management with Redux or MobX.
+- Next.js: Proficient in building server-side rendered (SSR) and static generated (SSG) applications using Next.js, including routing, data fetching, and API integration.
+- JavaScript/TypeScript: Strong knowledge of ES6+ features and TypeScript for writing clean and maintainable code.
+- HTML & CSS: Proficient in semantic HTML5, CSS3, and CSS preprocessors like Sass or Less.
+- UI Libraries: Experience working with popular UI libraries and frameworks like Material-UI or Bootstrap.
+- State Management: Proficient in managing application state using Redux, MobX, or React Context API.
+- Testing & Debugging: Skilled in writing unit tests using testing frameworks like Jest or React Testing Library, and debugging skills using browser dev tools.
+- Git & Version Control: Experienced with Git for version control and collaboration with teams using branching strategies like Git Flow.
+- RESTful APIs: Familiarity with building and consuming APIs, fetching data from external sources, and handling authentication/authorization.
+- Responsive Design: Experience in building responsive and mobile-friendly web applications that provide a seamless user experience across different devices.
+- Performance Optimization: Knowledge of optimizing React applications for better performance and reducing load times.
+
+✅ Built a blogging platform using Next.js and Firestore for real-time data updates.
+✅ Developed a mobile-responsive e-commerce website using React, Redux, and GraphQL.
+
+✨ Communication Skills:
+
+I have excellent communication skills and enjoy working collaboratively in a team-oriented environment. 
+I am adept at understanding project requirements, providing timely updates, and meeting tight deadlines.
+
+Thank you for considering my profile! 
+I am excited about the opportunity to contribute my skills and expertise to your projects. 
+Please feel free to contact me at your convenience.

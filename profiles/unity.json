@@ -1,0 +1,99 @@
+{
+	"professional": "Expert Unity Developer",
+	"work_experience": [
+		{
+			"role": "Unity Developer",
+			"company": "Trivadis GmbH",
+			"location": "Hamburg",
+			"country": "Germany",
+			"start": "2018.5",
+			"end": "2021.7",
+			"description": [
+				"- I have over four years of experience working with Unity C# and have acquired a thorough understanding of the engine in that time.",
+				"- I have a strong enthusiasm for games and Application development, together with excellent knowledge of the mobile game market, game design, and game monetization methods. ",
+				"- I can guarantee that you will ultimately get precisely what you desire, complete with all the features, functionality, and style."
+			]
+		},
+		{
+			"role": "Expert Unity Developer",
+			"company": "BriskCoders",
+			"location": "Munich, Bavaria",
+			"country": "Germany",
+			"start": "2021.11",
+			"end": "2023.4",
+			"description": [
+				"- I can assist you not only with the creation of the game, but also with its marketing plan and user retention management.",
+				"- I have worked in various aspects of Game development from Enemy-AI, Locomotion, Multiplayer/Networking to Shaders and VFX and have applied my knowledge to 2D, 3D Mobile and Desktop games alike.",
+				"- I have experience using Version Control systems such as Git, SVN and Plastic."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universiti Sains Malaysia (USM)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": "USM is a public research university known for its strong emphasis on science and technology. It offers programs in fields such as natural sciences, applied sciences, medical and health sciences, pharmaceutical sciences, and social sciences."
+		},
+		{
+			"university": "University of Hamburg",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Completed a rigorous program in Computer Science at the University of Hamburg, gaining a solid foundation in fundamental concepts, theories, and practical skills related to computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Prototyping",
+		"Game",
+		"Unity",
+		"C#",
+		"AR & VR",
+		"Web Design",
+		"Web Application",
+		"Android App Development",
+		"VR Application",
+		"Game Development",
+		"AR Application",
+		"3D Animation",
+		"JavaScript",
+		"Game Design",
+		"Visual Effects"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"1. I have over four years of experience working with Unity C# and have acquired a thorough understanding of the engine in that time.",
+		"2. I have worked in various aspects of Game development from Enemy-AI, Locomotion, Multiplayer/Networking to Shaders and VFX and have applied my knowledge to 2D, 3D Mobile and Desktop games alike.",
+		"3. I have experience using Version Control systems such as Git, SVN and Plastic."
+	],
+	"hour_rate": "33",
+	"photo_others": {
+		"birthday": "1995-10-28",
+		"country": "Germany",
+		"city": "Berlin",
+		"street": "Karl-Marx-Allee 852",
+		"zipcode": "84625",
+		"phone": "02154895258",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg"
+		]
+	},
+	"first_name": [
+		"Jonas"
+	],
+	"last_name": [
+		"Werner"
+	]
+}

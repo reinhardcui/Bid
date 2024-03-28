@@ -1,0 +1,154 @@
+{
+	"professional": "WordPress developer | React developer |JavaScript| Front end developer",
+	"work_experience": [
+		{
+			"role": "Web Developer | Web Desk",
+			"company": "Labster",
+			"location": "Bali",
+			"country": "Indonesia",
+			"start": "2018.5",
+			"end": "2020.4",
+			"description": [
+				""
+			]
+		},
+		{
+			"role": "WordPress | Front end developer",
+			"company": "Sale Stock",
+			"location": "Jakarta",
+			"country": "Indonesia",
+			"start": "2020.5",
+			"end": "2023.6",
+			"description": [
+				""
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universitas Gresik (UNIGRES)",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2015",
+			"description": ""
+		},
+		{
+			"university": "Universitas Gresik (UNIGRES)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2017",
+			"description": ""
+		}
+	],
+	"languages": [],
+	"skills": [
+		"WordPress",
+		"WordPress Theme",
+		"Elementor",
+		"React",
+		"Next.js",
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"Tailwind CSS",
+		"Web Development",
+		"Front-End Development",
+		"TypeScript",
+		"PSD to WordPress",
+		"PSD to HTML",
+		"HTML5"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"I am a old front-end developer, Wordpress developer, React developer, Webflow developer. ",
+		"",
+		"If work with me, you'll get:",
+		"",
+		"- Fully secured and hack-proof website/app;",
+		"-  Fast loading pages for better conversion and user experience;",
+		"-  Fully responsive - mobile-friendly product;",
+		"-  100% Guaranteed satisfaction.",
+		"",
+		"I have more than 7 years of experience converting a design to sites and animation. I know how to convert client design for people's eyes and google robot indexation. Even very demanding designers will appreciate my attention to detail.",
+		"I have worked with hundreds of clients from many sectors like Health and Beauty, Fashion, Clothing, the Food Industry, Jewellery, Drinks and Beverages,, Sports, Kids, Electronics, etc. My colossal experience allows me to ask the right questions and do what the client needs based on the answers! I have a beautiful smile and good communication skills.",
+		"",
+		"I am also an expert in working with the following supporting technical skills also:",
+		"- PhotoShop, Figma, Adobe XD",
+		"- HTML5, CSS3, Responsive design",
+		"- Shopify, Webflow, HubSpot",
+		"",
+		"Hire me to develop your Online store or website and ongoing maintenance. I take pride in my work and always respect the time, and efforts that I put in my work!",
+		"Thank you for your time. I look forward to working with you soon!"
+	],
+	"hour_rate": "25",
+	"photo_others": {
+		"birthday": "1992-04-24",
+		"city": " Jakarta",
+		"country": "Indonesia",
+		"street": "Jl Tebet Brt VIII/23",
+		"zipcode": "12810",
+		"phone": "0218357474",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg",
+			"6.jpg",
+			"7.jpg",
+			"8.jpg",
+			"9.jpg",
+			"10.jpg"
+		]
+	},
+	"first_name": [
+		"Muhammad",
+		"Rizky",
+		"Budi",
+		"Agus",
+		"Adi",
+		"Arif",
+		"Joko",
+		"Fajar",
+		"Surya",
+		"Andi",
+		"Dwi",
+		"Tri",
+		"Eko",
+		"Indra",
+		"Iqbal",
+		"Wahyu",
+		"Bayu",
+		"Yoga",
+		"Hadi",
+		"Wira"
+	],
+	"last_name": [
+		"Setiawan",
+		"Suryanto",
+		"Santoso",
+		"Utomo",
+		"Wibowo",
+		"Nugroho",
+		"Prasetyo",
+		"Kusuma",
+		"Hartono",
+		"Wijaya",
+		"Sutanto",
+		"Hidayat",
+		"Hermawan",
+		"Winata",
+		"Wahyu",
+		"Pranata",
+		"Putra",
+		"Gunawan",
+		"Susanto",
+		"Saputra"
+	]
+}

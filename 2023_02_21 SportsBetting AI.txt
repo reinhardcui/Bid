@@ -1,0 +1,68 @@
+Bedok New Town, Singapore
+My name: Kilian Johnson
+
+Hello Femke, nice to see you here.
+Let’s continue discussing for success in your job.
+Your job is to build an advanced prediction system that provides high-probability betting predictions for valuebet.
+To achieve this, it is necessary to first build a user-friendly website.
+I am talented at building websites using several JavaScript libraries such as React.js, Next.js, and CSS frameworks such as tailwindcss and MUI.
+I can easily add authentication to this platform and integrate payment gateways for subscriptions.
+
+Creating the Dashboard
+I wanted this dashboard to show the most profitable betting opportunities in a very easy-to-understand format. To achieve this, I designed a workflow orchestrated by Python scripts:
+
+The first script scrapes data from various sports books, capturing the latest odds every five minutes to ensure the data remains current and relevant.
+Upon completion of the scraping process, a data cleaning script is triggered, refining the raw data into a more analyzable format.
+The cleansed data is then passed to another script, which pushes the data to a Google Sheets document. The data is automatically sorted and filtered, presenting bets with the highest odds first.
+This process occurs every five minutes, ensuring users have access to the most favorable odds at any given time.
+
+The dashboard displays a wealth of information including the player’s name, our recommended bet (over or under), the specific stat we’re betting on, PrizePicks’ lines, and corresponding lines from other sports books. It cross-references these data points, helping us identify inconsistencies and opportunities. Additionally, it presents Pinnacle odds, DraftKings odds, the average odds, and the percentage odds to hit, offering a comprehensive betting analytics tool for users.
+
+I'll give you the link I created earlier.
+
+Check it out and let me know what you think.
+Building a website isn't really a problem for me.
+Second, building sophisticated AI-based prediction systems for sports betting is critical to your job.
+The plan was to have hockey, baseball, basketball, and soccer as sports options.
+Well, there are many bookmakers (main bookmakers and their clones) and markets too.
+How many bookmakers and markets will you include on the platform?
+This option is also a very important index when building a platform.
+
+That's great!
+The platform must find and provide overstated odds with specific bookmakers so that users can make a profit.
+I believe value betting is profitable for the following reasons:
+One.
+My research has shown that if you manage this strategy users can earn over 10% of the total amount they bet each month if they use a value bet finder!
+2.
+Mathematically, value bets are more profitable than Surebet because players do not have to cover bets from other bookmakers.
+
+
+You know how people often view sports betting as more of an intuition-based game rather than a scientific process? Well, with the rise of big data and advanced analytics, we are able to bring in a more methodical approach. I took this idea and can build with it, leveraging my data analysis skills to create a savvy sports betting dashboard. It does not just randomly choose bets. Instead, it meticulously analyzes betting odd lines to find the bet with the highest probability of winning.
+
+I am excited to share with you this unique project.
+
+By identifying discrepancies and inconsistencies across their predictions, I'll potentially uncover a unique edge. This approach involves capitalizing on the divergences in their analyses to find the highest probability bets. By standing on the shoulders of these sports betting giants, we can discern valuable insights that may have been overlooked or discounted in their projections.
+
+For this project, I'll utilize Python’s robust capabilities to web scrape data from leading sports books. Specifically, I'll craft scripts to systematically extract data from PrizePicks, DraftKings, and Pinnacle. These scripts will be designed to run at five-minute intervals, ensuring the collection of the most current and up-to-date odds lines each time. This frequent data gathering will provid a continuously refreshed perspective on the evolving betting landscape, critical for the accuracy and relevance of my analysis.
+
+
+Data Preprocessing
+Cleaning and preprocessing the data is next steps. This includes dealing with missing values, correcting data inconsistencies, and converting data into formats suitable for analysis.
+
+Exploratory Data Analysis
+With the data prepared, I'll embark on an exploratory data analysis (EDA) journey to uncover underlying patterns and trends. This comprehensive examination requires extensive back-testing over several weeks of historical data. I'll diligently cross-reference player performances against the sports books’ predictions to evaluate their accuracy. The process entail an in-depth investigation of how often the sports books’ predictions were on the mark, which provided valuable insights into their predictive reliability and establishs a benchmark for my project.
+
+
+Whether you’re a sports enthusiast, data scientist, or potential employer, I hope this project provides an insightful glimpse into my abilities as a data analyst. Using data science to find solutions to real-world problems is what I love, and I’m always ready for the next challenge.
+
+As we look forward to the future, the possibilities of data analytics in various sectors, including sports betting, are limitless. I’m excited to continue utilizing my skills to push the boundaries and make a meaningful impact.
+
+Lastly, can we discuss the budget and project schedule?
+This is a big deal. On Upwork, you posted this job for $700.
+But I don't think this budget is suitable for this job.
+I would like to increase it further.
+What do you think about it?
+We also have a team of developers talented in researching AI and sports betting strategies.
+I plan to work with them.
+This will significantly shorten the development period.
+I would like to be paid hourly.

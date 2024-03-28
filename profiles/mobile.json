@@ -1,0 +1,103 @@
+{
+	"professional": "Android and iOS develope",
+	"work_experience": [
+		{
+			"role": "Android and iOS develope",
+			"company": "T-Systems International GmbH",
+			"location": "Frankfurt",
+			"country": "Germany",
+			"start": "2018.2",
+			"end": "2021.3",
+			"description": [
+				"- Created and maintained 10+ web applications for numerous national and foreign clients.",
+				"- Performed full cycle recruiting, averaging 100+ interviews per month.",
+				"- Setup tracking with GTM and GA, integrated HTML/CSS into the CMS and conducted day-to-day maintenance of the websites, resulting in a combined $40M of revenue for clients.",
+				"- Developed 50 responsive websites for clients in a variety of industries.",
+				"- Launched a company-wide digitized filing system that led to an increase in efficiency for all departments by 20% on average."
+			]
+		},
+		{
+			"role": "Android and iOS develope",
+			"company": "Trivadis GmbH",
+			"location": "Hamburg",
+			"country": "Germany",
+			"start": "2021.5",
+			"end": "2023.7",
+			"description": [
+				"- Mobilized cross-platform testing on 4 different web browsers and 3 standalone applications in web and cloud base.",
+				"- Contributed to the development of over 10 web and mobile applications.",
+				"- Collaborated with marketing and project management teams to deliver projects on-time and with the highest standard, retaining over 98% of clients in a 5-year period.",
+				"- Worked with a committee of 6 members to organise fun-activities for the employees.",
+				"- Extensive and varied contributions to the company's internal backend framework with a team of 4+ developers."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "Universiti Teknologi Malaysia (UTM)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": "UTM is a leading university in engineering and technology. It has several campuses across Malaysia and offers programs in engineering, sciences, management, and architecture."
+		},
+		{
+			"university": "University of Bonn",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Completed a rigorous program in Computer Science at the University of Bonn, gaining a solid foundation in fundamental concepts, theories, and practical skills related to computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Mobile App Design",
+		"Flutter",
+		"React Native",
+		"Native App Development",
+		"Mobile App Development Consultation",
+		"UI/UX Prototyping",
+		"Mobile UI Design",
+		"Hybrid App Development",
+		"Android",
+		"iOS",
+		"iOS Development",
+		"Figma",
+		"Mobile App",
+		"Mobile App Development",
+		"Firebase"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview" : [
+		"1. I am a Mobile Development expert with over 11 years of experience in the field.",
+		"2. Throughout my career, I have enjoyed completing numerous projects as a Lead Native/Cross-platform Android and iOS developer.",
+		"3. My expertise extends to various business sectors, including Banking and Finance, Healthcare, Ecommerce, Event management, Video streaming, and many more."
+	],
+	"hour_rate": "33",
+	"photo_others": {
+		"birthday": "1995-10-28",
+		"country": "Germany",
+		"city": "Berlin",
+		"street": "Karl-Marx-Allee 735",
+		"zipcode": "43587",
+		"phone": "0205184846",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg"
+		]
+	},
+	"first_name": [
+		"Jonas"
+	],
+	"last_name": [
+		"Werner"
+	]
+}

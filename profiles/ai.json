@@ -1,0 +1,95 @@
+{
+	"professional": "Senior Artifical Intelligent Developer",
+	"work_experience": [
+		{
+			"role": "Python Developer",
+			"company": "Covestro Deutschland AG",
+			"location": "Leverkusen",
+			"country": "Germany",
+			"start": "2018.3",
+			"end": "2019.9",
+			"description": [
+				"- Image recognition object detection, autonomous vehicles, medical imaging analysis, and more.",
+				"I develop a weather forecast application using Python. The application will utilize modern APIs to retrieve real-time weather data and display it in a user-friendly manner. This will allow users to obtain accurate and up-to-date weather information for any location, helping them plan their activities accordingly."
+			]
+		},
+		{
+			"role": "Senior Artifical Intelligent Developer",
+			"company": "Frankfurt & Company",
+			"location": "Frankfurt",
+			"country": "Germany",
+			"start": "2019.10",
+			"end": "2023.6",
+			"description": [
+				"- Natural language processing like text analysis, sentiment analysis, language translation, question answering, and chatbot.",
+				"- Noise cancellation project use a combination of digital signal processing techniques.",
+				"- Speech recognition project use RNN and CNN.",
+				"- I'm Passionate about delivering high-end customer service as well as go the extra-mile as necessary."
+			]
+		}
+	],
+	"education": [
+		{
+			"university": "University of Malaya (UM)",
+			"degree": "Master of Computer Science (MSCS)",
+			"field": "Computer Science",
+			"start": "2012",
+			"end": "2015",
+			"description": " It offers a wide range of undergraduate and postgraduate programs across various disciplines."
+		},
+		{
+			"university": "University of Cologne",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2018",
+			"description": "Completed a rigorous program in Computer Science at the University of Cologne, gaining a solid foundation in fundamental concepts, theories, and practical skills related to computer science."
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Artificial Intelligence",
+		"Python",
+		"Deep Learning",
+		"Machine Learning",
+		"OpenAI",
+		"TensorFlow",
+		"PyTorch",
+		"Data Scraping",
+		"Data Science",
+		"Scrapy",
+		"Keras",
+		"Full-Stack Development",
+		"MLflow"
+	],
+	"services": [
+		"Web Development",
+		"Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"overview": [
+		"I am confident in my ability to successfully execute AI projects due to my extensive experience and proven track record in this domain. Over the years, I have accumulated a wealth of knowledge and practical skills through my involvement in numerous AI initiatives. Furthermore, my past accomplishments include the successful completion of several challenging AI projects, which have enhanced my proficiency and understanding of this complex field."
+	],
+	"hour_rate": "33",
+	"photo_others": {
+		"birthday": "1995-10-28",
+		"country": "Germany",
+		"city": "Berlin",
+		"street": "Karl-Marx-Allee 785",
+		"zipcode": "45327",
+		"phone": "0054595632",
+		"avatar": [
+			"1.jpg",
+			"2.jpg",
+			"3.jpg",
+			"4.jpg",
+			"5.jpg"
+		]
+	},
+	"first_name": [
+		"Jonas"
+	],
+	"last_name": [
+		"Werner"
+	]
+}
